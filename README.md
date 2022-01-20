@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KaterynaS
-- 👀 I’m interested in animated postcards
-- 🌱 I’m currently learning unity, procreate
-- 💞️ I’m looking to collaborate on fun tiny games, educational products
-- 📫 To reach me - write direct message
+- 👀 interested in animated postcards, nanogames
+- 🌱 currently learning unity, procreate
+- 💞️ looking to collaborate on fun tiny games, educational products
+- 📫 kateryna.sukhomlynova@gmail.com
 
 <!---
 KaterynaS/KaterynaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
