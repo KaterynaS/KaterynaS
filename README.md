@@ -4,7 +4,9 @@
 - 💞️ looking to collaborate on fun tiny games, educational products
 - 📫 kateryna.sukhomlynova@gmail.com
 
-<!---
-KaterynaS/KaterynaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Minigames and interactive cards:
+https://katerynas.github.io/RocketMathGame/
+https://katerynas.github.io/BubbleEaterGame/
+https://katerynas.github.io/XmasGreetingCard/
+https://katerynas.github.io/Cherepaha/
+https://katerynas.github.io/OnEye/
